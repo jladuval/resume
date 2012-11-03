@@ -1,71 +1,70 @@
-Markdown Resumé
-===============
+Simon Frost Resumé
+==================
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
+0273040032
+simonhfrost@gmail.com
+github.com/simonhfrost
+linkedin.com/in/simonhfrost
 
 Interests
 ---------
 
-*   Creating beautiful resumés from simple Markdown documents
-
+* Web and Mobile Development
+* Digital Music Composition
+* Trumpet
+* Dungeons & Dragons 
 
 Work Experience
 ---------------
 
-*   **Word Processor** (Redmond, WA)
+*   **Telogis - GIS Software** 
 
-    Junior Resumé Maker, 2006 - 2007
+    Telogis Route, Feb 2012 - Current
+    -   Multiple concurrent travelling salesman problem
+    -   Route Optimization & Logistics 
+    -   Conducting Interviews and Presentations
+    -   C#, Silverlight, EXT, powershell
 
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
 
-*   **\LaTeX\ + pdflatex**
+*   **HITLab - Educational Computer Games**
 
-    Senior Resumé Maker, 2008 - 2010
+    Research Assistant, Nov 2011 - Feb 2012
+    -   Effective Design Processes for Educational Computer Games
+    -   Scripting, modelling & design 
+    -   C#, Javascript, Maya 
 
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
+*   **Various Retail Employment**
 
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
+    The Warehouse
+    -   Nightfill
 
-    Web Resumé Intern, August 2010
+    Pizza Hut
+    -   Cashier, Deliveries, Pizza Maker
 
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
+    Fresh Choice - Supermarket
+    -   Grocery Transport Coordinator
+    
+Projects
+--------
 
-*   **Markdown with Pandoc**
-
-    Resumé Architect, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
-
+*   Awkward Turtle - Android Marketplace
+*   ArbitraryCountdown.com
+*   FluffyLink.com
+*   NZ Game Jam 2010, 2012 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **B.S. in Computer Science** (Feb 2010 - Dec 2012)
+    -   University of Canterbury, New Zealand
+    -   Algorithms, Data Structures & Software Development 
+    -   Java, Web, Android, Python, C#
 
-    B.S. in Submodules, May 2012
+*   **Burnside High School 2009** (Jan 2005 - Dec 2009)
+    -   Multimedia, Computer Hardware and Security, ICT
+    -   Calculus, Physics, English
 
+Testimonials
+------------
 
-Skills
-------
-
-*   Very experienced with Python, Markdown, \LaTeX
-
-*   Familiar with GNU Make, bash
-
-
+Thanks so much everyone for last night, I had great feedback on all of your presentations both last night and this afternoon at the IEEE interviews - in fact several of the people today cited your presentations when we asked why they wanted to work at Telogis.  They clearly felt like they could relate to you and came away with the impression that Telogis employs really bright people, tackles interesting challenging problems, and is a fun place to work - which is just what we want.  Fantastic work - really appreciate your efforts. - **Nicki Graff (Human Resources)** 
