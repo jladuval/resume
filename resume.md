@@ -1,29 +1,38 @@
 Simon Frost Resumé
 ==================
 
-0273040032
-simonhfrost@gmail.com
-github.com/simonhfrost
-linkedin.com/in/simonhfrost
+Mobile - 0273040032
+Simonhfrost@gmail.com
+Github.com/simonhfrost
+Linkedin.com/in/simonhfrost
 
 Interests
 ---------
 
-* Web and Mobile Development
-* Digital Music Composition
-* Trumpet
-* Dungeons & Dragons 
+*   **Programming**
+    -  Making websites
+    -  Mobile development
+    -  Computer games
+
+*   **Music**
+    -  Festivals
+    -  Digital music making
+    -  Trumpet playing 
+
+*   **Socializing**
+    -  Social volleyball
+    -  Tasting fine alcoholic beverages
+    -  Couch surfing
 
 Work Experience
 ---------------
 
-*   **Telogis - GIS Software** 
+*   **Telogis** 
 
-    Telogis Route, Feb 2012 - Current
-    -   Multiple concurrent travelling salesman problem
-    -   Route Optimization & Logistics 
+    Route, Feb 2012 - Current
+    -   Route Delivery Optimization & Logistics 
     -   Conducting Interviews and Presentations
-    -   C#, Silverlight, EXT, powershell
+    -   C#, Javascript, Powershell
 
 
 *   **HITLab - Educational Computer Games**
@@ -35,27 +44,24 @@ Work Experience
 
 *   **Various Retail Employment**
 
-    The Warehouse
-    -   Nightfill
-
-    Pizza Hut
-    -   Cashier, Deliveries, Pizza Maker
-
-    Fresh Choice - Supermarket
-    -   Grocery Transport Coordinator
+    -   The Warehouse: Nightfill
+    -   Pizza Hut: Cashier, Deliveries, Pizza Maker
+    -   Fresh Choice: Supermarket - Grocery Transport Coordinator
     
 Projects
 --------
 
-*   Awkward Turtle - Android Marketplace
-*   ArbitraryCountdown.com
-*   FluffyLink.com
+*   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications&hl=en">Awkward Turtle - Android Marketplace</a>
+*   <a href="http://www.simonhfrost.com">Simonhfrost.com</a>
+*   <a href="http://www.arbitrarycountdown.com">ArbitraryCountdown.com</a>
+*   <a href="http://www.fluffylink.com">FluffyLink.com</a>
+*   <a href="http://www.concorpro.com">Concorpro.com</a>
 *   NZ Game Jam 2010, 2012 
 
 Education
 ---------
 
-*   **B.S. in Computer Science** (Feb 2010 - Dec 2012)
+*   **B.S. in Computer Science** (Feb 2010 - Dec 2011)
     -   University of Canterbury, New Zealand
     -   Algorithms, Data Structures & Software Development 
     -   Java, Web, Android, Python, C#
@@ -63,8 +69,3 @@ Education
 *   **Burnside High School 2009** (Jan 2005 - Dec 2009)
     -   Multimedia, Computer Hardware and Security, ICT
     -   Calculus, Physics, English
-
-Testimonials
-------------
-
-Thanks so much everyone for last night, I had great feedback on all of your presentations both last night and this afternoon at the IEEE interviews - in fact several of the people today cited your presentations when we asked why they wanted to work at Telogis.  They clearly felt like they could relate to you and came away with the impression that Telogis employs really bright people, tackles interesting challenging problems, and is a fun place to work - which is just what we want.  Fantastic work - really appreciate your efforts. - **Nicki Graff (Human Resources)** 
