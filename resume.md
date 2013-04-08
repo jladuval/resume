@@ -2,51 +2,39 @@ Simon Frost Resumé
 ==================
 
 Mobile - 0273040032
-Simonhfrost@gmail.com
-Github.com/simonhfrost
-Linkedin.com/in/simonhfrost
-
-Interests
----------
-
-*   **Programming**
-    -  Making websites
-    -  Mobile development
-    -  Computer games
-
-*   **Music**
-    -  Festivals
-    -  Digital music making
-    -  Trumpet playing 
-
-*   **Socializing**
-    -  Social volleyball
-    -  Tasting fine alcoholic beverages
-    -  Couch surfing
+<a href="mailto:simonhfrost@gmail.com">Simonhfrost@gmail.com</a>
+<a href="https://github.com/SimonHFrost">Github.com/simonhfrost</a>
+<a href="http://www.linkedin.com/in/simonhfrost">Linkedin.com/in/simonhfrost</a>
 
 Work Experience
 ---------------
 
 *   **Telogis** 
 
-    Route, Feb 2012 - Current
+    Route Team (Feb 2012 - Current)
     -   Route Delivery Optimization & Logistics 
     -   Conducting Interviews and Presentations
-    -   C#, Javascript, Powershell
-
+    -   C#, Javascript, Powershell, SQL
 
 *   **HITLab - Educational Computer Games**
 
-    Research Assistant, Nov 2011 - Feb 2012
+    Research Assistant (Nov 2011 - Feb 2012)
     -   Effective Design Processes for Educational Computer Games
-    -   Scripting, modelling & design 
-    -   C#, Javascript, Maya 
+    -   Scripting, Modelling & Design 
+    -   C#, Javascript, Maya
+    
+*   **Property Manager**
+    
+    Local Liason and General Management for Frost Family Trust (Feb 2010 - Feb 2013)
+    -   First Point of Contact
+    -   EQC Correspondent
+    -   Tenant Acquisition
 
-*   **Various Retail Employment**
+*   **Various Retail/Misc Employment**
 
+    -   Domestic Cleaning
     -   The Warehouse: Nightfill
     -   Pizza Hut: Cashier, Deliveries, Pizza Maker
-    -   Fresh Choice: Supermarket - Grocery Transport Coordinator
     
 Projects
 --------
@@ -56,10 +44,15 @@ Projects
 *   <a href="http://www.arbitrarycountdown.com">ArbitraryCountdown.com</a>
 *   <a href="http://www.fluffylink.com">FluffyLink.com</a>
 *   <a href="http://www.concorpro.com">Concorpro.com</a>
-*   NZ Game Jam 2010, 2012 
+*   <a href="http://globalgamejam.org/">NZ Game Jam 2010, 2012</a> 
 
 Education
 ---------
+
+*   **Coursera.org** (Dec 2011 - Current)
+    -   Functional Programming
+    -   Heterogeneous Programming
+    -   Introduction to Improvisation
 
 *   **B.S. in Computer Science** (Feb 2010 - Dec 2011)
     -   University of Canterbury, New Zealand
@@ -69,3 +62,21 @@ Education
 *   **Burnside High School 2009** (Jan 2005 - Dec 2009)
     -   Multimedia, Computer Hardware and Security, ICT
     -   Calculus, Physics, English
+
+Interests
+---------
+
+*   **Programming**
+    -  Web Development
+    -  Mobile Development
+    -  Computer Games
+
+*   **Music**
+    -  Festivals
+    -  Digital Music Production
+    -  Trumpet
+
+*   **Socializing**
+    -  Volleyball
+    -  Travelling
+    -  Board Games
