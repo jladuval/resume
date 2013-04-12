@@ -54,12 +54,12 @@ Education
     -   Heterogeneous Programming
     -   Introduction to Improvisation
 
-*   **B.S. in Computer Science** (Feb 2010 - Dec 2011)
+*   **B.S. in Computer Science** (Feb 2009 - Dec 2011)
     -   University of Canterbury, New Zealand
     -   Algorithms, Data Structures & Software Development 
     -   Java, Web, Android, Python, C#
 
-*   **Burnside High School 2009** (Jan 2005 - Dec 2009)
+*   **Burnside High School 2009** (Jan 2004 - Dec 2009)
     -   Multimedia, Computer Hardware and Security, ICT
     -   Calculus, Physics, English
 
