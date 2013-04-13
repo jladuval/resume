@@ -59,7 +59,7 @@ Education
     -   Algorithms, Data Structures & Software Development 
     -   Java, Web, Android, Python, C#
 
-*   **Burnside High School 2009** (Jan 2004 - Dec 2009)
+*   **Burnside High School 2009** (Jan 2004 - Dec 2008)
     -   Multimedia, Computer Hardware and Security, ICT
     -   Calculus, Physics, English
 
