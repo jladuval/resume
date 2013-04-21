@@ -2,81 +2,83 @@ Simon Frost Resumé
 ==================
 
 Mobile - 0273040032
-<a href="mailto:simonhfrost@gmail.com">Simonhfrost@gmail.com</a>
-<a href="https://github.com/SimonHFrost">Github.com/simonhfrost</a>
-<a href="http://www.linkedin.com/in/simonhfrost">Linkedin.com/in/simonhfrost</a>
+<a href="mailto:jladuval@outlook.com">jladuval@outlook.com</a>
+<a href="https://github.com/jladuval">Github.com/jladuval</a>
+<a href="nz.linkedin.com/pub/jacob-duval/47/26a/816/">nz.linkedin.com/pub/jacob-duval/47/26a/816/</a>
 
 Work Experience
 ---------------
 
-*   **Telogis** 
+*   **VisionsLive/Intranel** 
 
-    Route Team (Feb 2012 - Current)
-    -   Route Delivery Optimization & Logistics 
-    -   Conducting Interviews and Presentations
-    -   C#, Javascript, Powershell, SQL
+	VLQR Team (Feb 2013 - Current)
+    -   Complex site with several interacting components
+	-	Scrum, worked with product owner, major architectural decisions
+    -   C#, ASP.NET MVC, NHibernate, Javascript, Knockout.js
+	-	CQRS and DDD
 
-*   **HITLab - Educational Computer Games**
+    Bizcrowd Team (Nov 2011 - Feb 2013)
+    -   High profile business to business platform with strict performance requirements
+    -   Conducting interviews and code reviews, pseudo scrum, strict deadlines
+	-	Small team with heavy responsibilities and need for flexibility
+    -   C#, ASP.NET MVC, Javascript, EF, SQL
+	-	SOA with Projections and Managers
 
-    Research Assistant (Nov 2011 - Feb 2012)
-    -   Effective Design Processes for Educational Computer Games
-    -   Scripting, Modelling & Design 
-    -   C#, Javascript, Maya
+*   **Self Employed**
+
+    Freelancer (Oct 2012 - Current)
+	-	Work with clients for simple business websites
+	-	Importance of communication
+	-	Django, PostgreSQL
     
-*   **Property Manager**
+*   **Fortis Construction**
     
-    Local Liason and General Management for Frost Family Trust (Feb 2010 - Feb 2013)
-    -   First Point of Contact
-    -   EQC Correspondent
-    -   Tenant Acquisition
+    Labouror (Nov 2010 - Mar 2011)
+    -	Lead a team of four in repair/demolishment tasks after CHCH earthquake
+	-	Long hours, varied work
 
-*   **Various Retail/Misc Employment**
+*   **Other Employment**
 
-    -   Domestic Cleaning
-    -   The Warehouse: Nightfill
-    -   Pizza Hut: Cashier, Deliveries, Pizza Maker
+	-	Equity Trust Pacific - Painting (Dec 2009 - Jan 2010)
+    -   Shape Technology - Labouror (Nov 2007 - Jan 2008)
+    -   Farmers Trading Company - Secrity, Tills, Replenishment (Nov 2004 - Feb 2007)
     
 Projects
 --------
 
-*   <a href="https://play.google.com/store/apps/details?id=awkwardturtle.frostapplications&hl=en">Awkward Turtle - Android Marketplace</a>
-*   <a href="http://www.simonhfrost.com">Simonhfrost.com</a>
-*   <a href="http://www.arbitrarycountdown.com">ArbitraryCountdown.com</a>
-*   <a href="http://www.fluffylink.com">FluffyLink.com</a>
-*   <a href="http://www.concorpro.com">Concorpro.com</a>
-*   <a href="http://globalgamejam.org/">NZ Game Jam 2010, 2012</a> 
+*   <a href="http://www.fluffylink.com">FluffyLink.com</a> - MVC4/EF5/MSSQL
+*   <a href="http://www.findthe.me">FindThe</a> - Node.js/MongoDB
+*   <a href="http://www.shapelesscomic.com">Shapeless</a> - Javascript
+*   <a href="http://www.strikeapeo.se">Strike a prose</a> - Node.js/MongoDB
+*   <a href="https://github.com/jladuval/Template-Project">MVC4 Template</a> - MVC4/EF/MSSQL
+*   <a href="https://github.com/jladuval/DjangoTemplate">Django Template</a> - Django/PostgreSql
+
 
 Education
 ---------
 
-*   **Coursera.org** (Dec 2011 - Current)
-    -   Functional Programming
-    -   Heterogeneous Programming
-    -   Introduction to Improvisation
-
 *   **B.S. in Computer Science** (Feb 2009 - Dec 2011)
     -   University of Canterbury, New Zealand
     -   Algorithms, Data Structures & Software Development 
-    -   Java, Web, Android, Python, C#
+    -   Various Languages
 
-*   **Burnside High School** (Jan 2004 - Dec 2008)
-    -   Multimedia, Computer Hardware and Security, ICT
-    -   Calculus, Physics, English
+*   **Christs College** (Jan 2004 - Dec 2008)
+    -   Calculus, Physics, English, Math.
 
 Interests
 ---------
 
 *   **Programming**
-    -  Web Development
-    -  Mobile Development
-    -  Computer Games
+    -  	Web Development
+	-	Solution Architecture
 
 *   **Music**
-    -  Festivals
-    -  Digital Music Production
-    -  Trumpet
+    -  	Piano, Drums
 
 *   **Socializing**
-    -  Volleyball
-    -  Travelling
-    -  Board Games
+    -  	Travelling
+    -  	Board Games
+	-	Tramping
+	-	Rock Climbing
+
+References available on request.
