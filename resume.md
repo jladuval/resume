@@ -1,7 +1,7 @@
-Simon Frost Resumé
+Jacob Duval Resumé
 ==================
 
-Mobile - 0273040032
+Mobile - 0273035176
 <a href="mailto:jladuval@outlook.com">jladuval@outlook.com</a>
 <a href="https://github.com/jladuval">Github.com/jladuval</a>
 <a href="nz.linkedin.com/pub/jacob-duval/47/26a/816/">nz.linkedin.com/pub/jacob-duval/47/26a/816/</a>
@@ -46,7 +46,7 @@ Work Experience
 Projects
 --------
 
-*   <a href="http://www.fluffylink.com">FluffyLink.com</a> - MVC4/EF5/MSSQL
+*   <a href="http://www.fluffylink.com">FluffyLink</a> - MVC4/EF5/MSSQL
 *   <a href="http://www.findthe.me">FindThe</a> - Node.js/MongoDB
 *   <a href="http://www.shapelesscomic.com">Shapeless</a> - Javascript
 *   <a href="http://www.strikeapeo.se">Strike a prose</a> - Node.js/MongoDB
